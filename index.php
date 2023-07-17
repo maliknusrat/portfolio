@@ -8,8 +8,7 @@
   <link rel="shortcut icon" type="image/png" href="img/Profile1.png">
 
   <!-- Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="CSS/Style.css">
@@ -35,8 +34,7 @@
   <!-- Navbar section -->
   <nav class="navbar navbar-expand-lg navbar-dark navbar-container">
     <div class="container-fluid">
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -71,18 +69,18 @@
           <h3>Malik Nusrat Nahar Nuhin</h3>
           <p>Student of CSE Department</p>
 
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque aut maxime odit, quod rerum
-            cupiditate!</p>
+          <p>Hello and welcome! <br>My name is Malik Nusrat Nahar Nuhin, and I am thrilled to present to you my portfolio. Within these 
+          virtual pages, you will find a glimpse into my skills, experiences, and passion for computer science and engineering subject. 
+          I have crafted this portfolio as a testament to my journey and growth, as well as a showcase of the projects and 
+          accomplishments that have shaped my professional identity.</p>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, consectetur, commodi rem
-            necessitatibus blanditiis eligendi adipisci laboriosam ducimus dolores eos enim. Quisquam sed expedita quae
-            sunt eligendi officia delectus repudiandae corrupti excepturi, hic id itaque sequi tempora cumque nulla
-            earum nostrum dolor molestias, voluptatem quasi? Voluptas delectus amet exercitationem consectetur pariatur
-            atque obcaecati magni maiores libero? Quisquam, saepe! Maiores, sunt.</p>
+          <p>This portfolio serves as a testament to my creative problem-solving abilities, innovative thinking,
+             and meticulous attention to detail. From [mention notable projects or achievements], you will see 
+             firsthand how I have leveraged my skills to deliver impactful solutions that drive positive outcomes.</p>
 
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus quia error nihil dicta iste
-            repellat dolorem quasi autem, unde, nemo rerum, eum similique non dolorum sequi culpa ducimus beatae quis
-            esse consequatur nesciunt in molestias ab. Culpa, excepturi! Suscipit.</p>
+          <p>Thank you for taking the time to explore my portfolio. I hope you find it insightful and inspiring.
+            If you have any questions or would like to discuss potential collaborations, please don't hesitate to reach out.
+            I look forward to connecting with you and exploring how we can create something extraordinary together.</p>
         </div>
         <div class="col-md-3 mb-4">
           <img src="img/Profile1.png" alt="Nusrat Nuhin" class="img-fluid rounded-circle border border-light">
@@ -354,8 +352,7 @@
 
         <div class="row pb-5">
           <div class="col">
-            <textarea name="" class="form-control inner-form" placeholder="Your Massage..." id="" cols="30"
-              rows="5"></textarea>
+            <textarea name="" class="form-control inner-form" placeholder="Your Massage..." id="" cols="30" rows="5"></textarea>
           </div>
         </div>
 
@@ -379,13 +376,13 @@
           </div>
         </div>
 
-         <div class="row pt-2 pb-5">
+        <div class="row pt-2 pb-5">
           <div class="col text-center text-white">
             <h4>Frank Ocean</h4>
           </div>
         </div>
 
-         <!-- <div class="row">
+        <!-- <div class="row">
           <div class="col">
             <div class="Circle">
               <i class="fab fa-youtube"></i>
@@ -407,9 +404,7 @@
   <!-- Optional JavaScript; choose one of the two! -->
 
   <!-- Option 1: Bootstrap Bundle with Popper -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
-    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
 
   <!-- Option 2: Separate Popper and Bootstrap JS -->
   <!--
